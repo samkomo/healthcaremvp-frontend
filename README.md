@@ -2,6 +2,8 @@
 
 A modern, responsive React frontend application for managing patient information and appointments in a healthcare system.
 
+![Healthcare Dashboard](./images/dashboard.png)
+
 ## 🚀 Features
 
 - **Patient Management**: Browse and search through a list of patients
